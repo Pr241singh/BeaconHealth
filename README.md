@@ -1,2 +1,2 @@
 # BeaconHealth
-A project that i made during my internship
+A project that I made during my internship
